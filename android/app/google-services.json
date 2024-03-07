@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522928471179",
+    "project_id": "gdsc-mini-bootcamp",
+    "storage_bucket": "gdsc-mini-bootcamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522928471179:android:90da32c8aad069a2a9688e",
+        "android_client_info": {
+          "package_name": "com.gdscbootcamp.firetodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZbxfjRCDrTImQWyH7tgAaRNmY3qKMA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
